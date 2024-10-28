@@ -1,4 +1,4 @@
-#*.apk
+*.apk
 *.jar
 *.keystore
 *venv
@@ -9,4 +9,4 @@ changelog.md
 *.json
 status.md
 *.zip
-#apks/*
+apks/*
